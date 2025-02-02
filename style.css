@@ -3,6 +3,6 @@ body {
     color: #fff;
 }
 
-h1, strong {
+.titulo-nome, .p-tecnologias, .titulo-facul {
     color: #5099fb;
 }
